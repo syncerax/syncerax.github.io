@@ -14,3 +14,9 @@
 #   url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
+- title: About
+  url: /about/
+- title: Contact
+  url: /contact/
+- title: Search
+  url: /search/
