@@ -17,7 +17,7 @@
 # remote_theme: mmistakes/so-simple-theme
 locale: en-GB
 title: "Vishal Tejwani"
-description: "A Machine Learning Blog"
+description: # "A Machine Learning Blog"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /media/VT-logo.png # path of site logo, e.g. "/images/logo.png"
@@ -74,6 +74,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jemoji
 
 # Front Matter Defaults
 defaults:
@@ -98,6 +99,9 @@ author:
     - title: GitHub
       url: https://github.com/tVishal96
       icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/vishaltejwani/
+      icon: fab fa-linkedin
 
 # Footer Links
 footer_links:
@@ -107,3 +111,6 @@ footer_links:
   - title: GitHub
     url: https://github.com/tVishal96
     icon: fab fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/vishaltejwani/
+    icon: fab fa-linkedin
