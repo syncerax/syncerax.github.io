@@ -1,6 +1,6 @@
-# Vishal Tejwani's Blog
+# Vishal Tejwani's Website
 
-A blog powered by [Jekyll](http://jekyllrb.com/) and [So Simple](https://github.com/mmistakes/so-simple-theme)
+A website powered by [Jekyll](http://jekyllrb.com/) and [So Simple](https://github.com/mmistakes/so-simple-theme)
 ## Credits
 
 ### Creator
