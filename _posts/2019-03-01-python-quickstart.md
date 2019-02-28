@@ -2,7 +2,7 @@
 layout: post
 title: "Python: Quickstart"
 excerpt: Python is a programming language that is both very powerful as well as easy to learn. This post offers a quick introduction to the basic programming constructs in Python.
-date: 2019-03-01 01:32:24 +0530
+date: 2019-02-28 21:37:24 +0530
 categories: python
 ---
 
