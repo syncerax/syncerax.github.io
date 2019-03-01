@@ -32,7 +32,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: UA-135468171-1 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: @vishaltejwani # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: vishaltejwani # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: tvishal1996 # site's Twitter username, e.g. "mmistakes"
 
