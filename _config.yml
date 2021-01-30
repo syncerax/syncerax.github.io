@@ -17,7 +17,7 @@
 # remote_theme: mmistakes/so-simple-theme
 locale: en-GB
 title: "Vishal Tejwani"
-description: # "A Machine Learning Blog"
+description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://tVishal96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /media/VT-logo.png # path of site logo, e.g. "/images/logo.png"

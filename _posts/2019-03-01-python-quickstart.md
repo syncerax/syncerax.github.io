@@ -85,7 +85,7 @@ This snippet of code displays the string "My name is Andrew and I am 35 years ol
 object_name.method_name([args])
 {% endhighlight %}
 
-**Note:** Python often trades off a little flexibility for simplicity. For instance, the `print` function prints a `\n` by default for cleanliness, while allowing the programmer to specify an alternate value for the `end` parameter. Another example is the `input` function, which always returns a string. To accept values of other datatypes, we have to cast the value entered by the user to the required type.
+**Note:** Python often trades off a little flexibility for simplicity. For instance, the `print` function prints a `\n` by default for cleanliness, while allowing the programmer to specify an alternate value for the `end` parameter. Another example is the `input` function, which always returns a string. To accept values of other data types, we have to cast the value entered by the user to the required type.
 
 # Arithmetic operations
 Python comes with a rich set of arithmetic operations.
@@ -674,17 +674,18 @@ And with that, we've reached the end of this post.
 # Epilogue
 I hope you are now comfortable with the basic concepts of Python programming and that you feel confident about writing your own Python programs. Learning to code in Python has opened up a world of possibilities for you! Here are some of the many paths you can follow..
 - Machine Learning, Deep Learning, Artificial Intelligence
-    + [NumPy tutorial](http://cs231n.github.io/python-numpy-tutorial/#numpy)
-    + [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-    + [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-    + [fast.ai](https://course.fast.ai)
+    + [NumPy tutorial](http://cs231n.github.io/python-numpy-tutorial/#numpy){:target="_blank"}
+    + [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120){:target="_blank"}
+    + [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning){:target="_blank"}
+    + [fast.ai](https://course.fast.ai){:target="_blank"}
     + This blog! Currently in its infancy, but I'm going to be posting a lot of ML content.
 - Web Development
-    + [Django](https://www.djangoproject.com) (Instagram uses this!)
-    + [Flask](http://flask.pocoo.org)
+    + [Django](https://www.djangoproject.com){:target="_blank"} (Instagram uses this!)
+    + [Flask](http://flask.pocoo.org){:target="_blank"}
 - GUI Development
-    + [Tkinter](https://docs.python.org/3.7/library/tkinter.html)
+    + [Tkinter](https://docs.python.org/3.7/library/tkinter.html){:target="_blank"}
 - Game Development
-    + [PyGame](http://inventwithpython.com/pygame/)
+    + [Arcade](http://arcade.academy/){:target="_blank"}
+    + [PyGame](https://www.pygame.org/){:target="_blank"}
 
 Happy Journey!
