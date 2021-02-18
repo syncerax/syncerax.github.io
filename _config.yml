@@ -19,7 +19,7 @@ locale: en-GB
 title: "Vishal Tejwani"
 description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://tVishal96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://syncerax.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /media/VT-logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
@@ -34,7 +34,7 @@ google_analytics: UA-135468171-1 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: my-personal-website-1 # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: tvishal1996 # site's Twitter username, e.g. "mmistakes"
+  username: syncerax # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -89,27 +89,27 @@ defaults:
 author:
   name: Vishal Tejwani
   picture: /media/vishal.jpg
-  email: tvishal96@gmail.com
-  twitter: tvishal1996
+  email: syncerax@gmail.com
+  twitter: syncerax
   links:
     - title: Twitter
-      url: https://twitter.com/tvishal1996
+      url: https://twitter.com/syncerax
       icon: fab fa-twitter-square
     - title: GitHub
-      url: https://github.com/tVishal96
+      url: https://github.com/syncerax
       icon: fab fa-github-square
     - title: LinkedIn
-      url: https://www.linkedin.com/in/vishaltejwani/
+      url: https://www.linkedin.com/in/syncerax
       icon: fab fa-linkedin
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/tVishal1996
+    url: https://twitter.com/syncerax
     icon: fab fa-twitter-square
   - title: GitHub
-    url: https://github.com/tVishal96
+    url: https://github.com/syncerax
     icon: fab fa-github-square
   - title: LinkedIn
-    url: https://www.linkedin.com/in/vishaltejwani/
+    url: https://www.linkedin.com/in/syncerax
     icon: fab fa-linkedin

@@ -4,11 +4,11 @@
 Vishal Tejwani:
   name: Vishal Tejwani
   picture: /media/vishal.jpg
-  twitter: "@tvishal1996"
+  twitter: "@syncerax"
   links:
     - title: Twitter
-      url: https://twitter.com/tvishal1996
+      url: https://twitter.com/syncerax
       icon: fab fa-twitter-square
     - title: GitHub
-      url: https://github.com/tVishal96
+      url: https://github.com/syncerax
       icon: fab fa-github-square
